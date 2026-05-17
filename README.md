@@ -31,7 +31,7 @@ Set the transport to `stdio` with:
 
 ```
 command: uv
-args: run,--with,mcp,python,todo_server.py
+args: run --with mcp python todo_server.py
 ```
 
 > The `args` field is a comma-separated string, not a JSON array — that's how the Inspector UI expects it.
