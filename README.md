@@ -45,6 +45,9 @@ Add to `%LOCALAPPDATA%\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude` 
 
 Then restart Claude Desktop.
 
+<img width="796" height="403" alt="image" src="https://github.com/user-attachments/assets/32397e98-e1b7-45b0-a994-f1dbc6233dd0" />
+
+
 ## Storage
 
 Tasks are saved to `tasks.json` in the same directory as `todo_server.py`. The path is resolved relative to the script itself, so it works regardless of what directory the MCP host launches from.
