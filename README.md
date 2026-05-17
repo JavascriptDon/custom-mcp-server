@@ -17,27 +17,6 @@ pip install "mcp[cli]"  # only needed for MCP Inspector
 
 ## Running
 
-### MCP Inspector
-
-Got it, you want a more narrative/prose style for the Running section rather than terse command blocks. Here's the full README with that applied:
-markdown# todo-mcp-server
-
-A local MCP server for managing tasks, built with [FastMCP](https://github.com/jlowin/fastmcp). Supports priorities, tags, due dates, full-text search, and persistent storage.
-
-## Prerequisites
-
-- Python 3.10+
-- [uv](https://github.com/astral-sh/uv)
-
-## Setup
-
-```bash
-pip install fastmcp mcp
-pip install "mcp[cli]"  # only needed for MCP Inspector
-```
-
-## Running
-
 ### mcp dev
 
 Make sure your Python is setup, then run:
