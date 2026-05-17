@@ -1,0 +1,10 @@
+[project]
+name = "todo-mcp"
+version = "0.1.0"
+description = "A simple MCP server for managing tasks"
+authors = [{ name = "HR" }]
+requires-python = ">=3.10"
+dependencies = [
+    "fastmcp>=3.3.1",
+    "mcp>=1.27.1",
+]
