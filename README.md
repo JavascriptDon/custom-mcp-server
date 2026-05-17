@@ -34,9 +34,8 @@ command: uv
 args: run --with mcp python todo_server.py
 ```
 
-> The `args` field is a comma-separated string, not a JSON array — that's how the Inspector UI expects it.
+<img width="117" height="240" alt="image" src="https://github.com/user-attachments/assets/82ea131f-254f-40ea-bdbd-cdff5c7f11cb" />
 
-> Don't use `mcp run todo_server.py` — it doesn't handle custom classes well and will corrupt the JSON stream.
 
 ### Claude Desktop
 
