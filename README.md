@@ -41,8 +41,8 @@ args: run --with mcp python todo_server.py
 
 Add the following to your config file and restart Claude Desktop:
 
-- **Windows Store install:** `%LOCALAPPDATA%\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude\claude_desktop_config.json`
-- **Standard install:** `%APPDATA%\Claude\claude_desktop_config.json`
+- **config file:** `%LOCALAPPDATA%\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude\claude_desktop_config.json`
+- **Standard install:** [Claude Desktop](https://claude.com/download)
 
 ```json
 {
